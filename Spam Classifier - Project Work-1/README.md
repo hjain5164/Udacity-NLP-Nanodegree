@@ -8,7 +8,7 @@ Being able to identify spam messages is a binary classification problem as messa
 
 ## Installation
 
-You will be requiring following modules to run the [notebook](https://github.com/hjain5164/Udacity-NLP-Nanodegree/blob/master/Spam%20Classifier%20-%20Project%20Work-1/Bayesian_Inference_solution.ipynb)
+You will be requiring following modules to run the [notebook](https://github.com/hjain5164/Udacity-NLP-Nanodegree/blob/master/Spam%20Classifier%20-%20Project%20Work-1/Spam_Classifier_Solution.ipynb)
 * pandas
 * sklearn
 
